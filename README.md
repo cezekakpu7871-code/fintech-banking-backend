@@ -14,3 +14,7 @@ A lightweight, secure Python implementation of a core mobile banking service API
 1. Clone this repository:
    ```bash
    git clone [https://github.com/cezekakpu7871-code/fintech-banking-backend.git](https://github.com/cezekakpu7871-code/fintech-banking-backend.git)
+
+   ## Author
+- **Developer:** Chisomeme Ezekakpu
+- **Contact:** ezekakpuchisomeme@gmail.com
